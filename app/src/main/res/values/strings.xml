@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- UI related Strings -->
+    <string name="que_name">What is your Name?</string>
+    <string name="answer">Answer: </string>
+    <string name="que_cricketer">Who is the best cricketer in the world?</string>
+    <string name="options">Options: </string>
+    <string name="sachin">Sachin Tendulkar</string>
+    <string name="kohli">Virat Kolli</string>
+    <string name="adam">Adam Gilchirst</string>
+    <string name="kallis">Jacques Kallis</string>
+    <string name="que_color">What are the colors in the Indian national flag?</string>
+    <string name="white">White</string>
+    <string name="yellow">Yellow</string>
+    <string name="orange">Orange</string>
+    <string name="green">Green</string>
+    <string name="summary">SUMMARY</string>
+    <string name="john_doe">John Doe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cricketer">cricketer</string>
+    <string name="color">color</string>
+    <string name="hello">Hello</string>
+    <string name="john">John</string>
+    <string name="here_are_the_answers_selected">Here are the answers selected:</string>
+    <string name="finish">Finish</string>
+    <string name="history">History</string>
+    Hello “Name:” ,
+    Here are the answers selected:
+    Who is the best cricketer in the world?
+    Answer: “ “
+    What are the colors in the national flag?
+    Answers : “Commo separated”
+
+</resources>
